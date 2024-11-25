@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramyaramesh-07
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning c,python,java
+- 🌱 I’m currently learning c,python,java,html
 - 📫 How to reach me ramyagowda7404@gmail.com
 - ⚡ Fun fact: I love eating🍴
 
